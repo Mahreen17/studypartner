@@ -1,0 +1,2 @@
+# studypartner
+Free Education Platform
